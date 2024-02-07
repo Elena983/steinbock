@@ -25,7 +25,8 @@ the absolute measure of cell density often reported in cells/mm2
 ![image](https://github.com/Elena983/steinbock/assets/68946912/e495b953-72ae-4ad1-80ab-038f89133bd0)
 
 ![image](https://github.com/Elena983/steinbock/assets/68946912/d02efeb5-2fc6-4a1a-bddf-fcb25ea7805d)
-Visualization of the mean marker expression per image to identify images with outlying marker expression. This check does not indicate image quality per se but can highlight biological differences.
+Visualization of the mean marker expression per image to identify images with outlying marker expression. 
+This check does not indicate image quality per se but can highlight biological differences.
 
 ![image](https://github.com/Elena983/steinbock/assets/68946912/39c8bd2f-68fd-4203-bec0-bc326c5618e7)
 We observed a more aggressive merging of cells from different patients than the results after fast correction, so we chose the harmony algorithm. 
@@ -37,9 +38,11 @@ Phenograph looks like a better clustering approach than SNN and FlowSom.
 ![image](https://github.com/Elena983/steinbock/assets/68946912/b859cc74-c934-47cd-8f48-ac3fc6e1bef0)
 
 The pseudobulk-expression profile of B cells seems markedly distinct from the other cell types, while comparable cell types such as the T cell subtypes (Treg, Tcyt, Thelp) group together.
+
 ![image](https://github.com/Elena983/steinbock/assets/68946912/9bb04f9a-d403-40df-8a14-7ddb1d747a9d)
 
 Segmentation mask visualizing
+
 ![image](https://github.com/Elena983/steinbock/assets/68946912/7ef4bafb-a0ce-40a1-86c7-3f8deba536b2)
 
 ![image](https://github.com/Elena983/steinbock/assets/68946912/269967bf-ded2-41a4-8427-9ba2649ce8d3)
@@ -47,9 +50,11 @@ Segmentation mask visualizing
 ![image](https://github.com/Elena983/steinbock/assets/68946912/7fcaacf9-3260-4b65-bf99-b5c3d3b88d2f)
 
 Selective visualization of cell outlines on composite images
+
 ![image](https://github.com/Elena983/steinbock/assets/68946912/ce2b059d-12c6-49de-8363-bdf8008c82da)
 
 Outlining cells on images
+
 ![image](https://github.com/Elena983/steinbock/assets/68946912/5c443f6d-7b3a-4afd-b0be-7e146e03088f)
 
 
