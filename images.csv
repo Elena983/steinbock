@@ -1,0 +1,4 @@
+image,width_px,height_px,num_channels
+patient1.tiff,6471,6062,21
+patient2.tiff,5542,5650,21
+patient3.tiff,5271,5626,21
