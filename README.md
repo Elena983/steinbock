@@ -37,6 +37,14 @@ Phenograph looks like a better clustering approach than SNN and FlowSom.
 
 ![image](https://github.com/Elena983/steinbock/assets/68946912/b859cc74-c934-47cd-8f48-ac3fc6e1bef0)
 
+Publication-ready ComplexHeatmap. 
+Summarizing all above
+Tumor cells have the largest mean cell area, many neighbors, and elevated Ki67 expression.
+MPs and DCs have the highest number of neighbors on average, which is biological sound given their predominant location in highly immune infiltrated regions near tumors.
+
+![image](https://github.com/Elena983/steinbock/assets/68946912/d795bad5-e043-4ed6-956b-3503c833c097)
+
+
 The pseudobulk-expression profile of B cells seems markedly distinct from the other cell types, while comparable cell types such as the T cell subtypes (Treg, Tcyt, Thelp) group together.
 
 ![image](https://github.com/Elena983/steinbock/assets/68946912/9bb04f9a-d403-40df-8a14-7ddb1d747a9d)
