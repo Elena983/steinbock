@@ -44,7 +44,13 @@ Tumor cells have the largest mean cell area, many neighbors, and elevated Ki67 e
 MPs and DCs have the highest number of neighbors on average, 
 which is biological sound given their predominant location in highly immune infiltrated regions near tumors.
 
-![image](https://github.com/Elena983/steinbock/assets/68946912/d795bad5-e043-4ed6-956b-3503c833c097)
+Color Set 1
+
+![image](https://github.com/Elena983/steinbock/assets/68946912/fa00867a-fb67-4512-88af-151bb8342566)
+
+Color Set 2
+
+![image](https://github.com/Elena983/steinbock/assets/68946912/0c975ce5-b405-4584-9a1d-72b58a2e829f)
 
 
 The pseudobulk-expression profile of B cells seems markedly distinct from the other cell types, while comparable cell types such as the T cell subtypes (Treg, Tcyt, Thelp) group together.
