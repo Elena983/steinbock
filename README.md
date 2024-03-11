@@ -65,13 +65,60 @@ Segmentation mask visualizing
 
 ![image](https://github.com/Elena983/steinbock/assets/68946912/7fcaacf9-3260-4b65-bf99-b5c3d3b88d2f)
 
-Selective visualization of cell outlines on composite images
+Selective visualization of cell outlines on composite images.
 
 ![image](https://github.com/Elena983/steinbock/assets/68946912/ce2b059d-12c6-49de-8363-bdf8008c82da)
 
 Outlining cells on images
 
 ![image](https://github.com/Elena983/steinbock/assets/68946912/5c443f6d-7b3a-4afd-b0be-7e146e03088f)
+
+##Spatial analysis
+
+![image](https://github.com/Elena983/steinbock/assets/68946912/d713b413-e484-4618-971d-7653d8345af7)
+
+Highlighting all spatial clusters and only the tumor communities
+
+![image](https://github.com/Elena983/steinbock/assets/68946912/48267def-070e-49ce-97b2-4e5234b29e04)
+
+Non-tumor communities and enrichment analysis between all spatial clusters
+
+![image](https://github.com/Elena983/steinbock/assets/68946912/377ea589-4670-451b-a133-4550ee517ca5)
+
+##Cell-cell interactions analysis
+
+In Patient 1's sample, the cellular composition consists primarily of immune cells, encompassing most of the detected cellular neighborhoods (CN). Conversely, in Patient 3's sample, the cellular makeup predominantly comprises tumor cells, with immune cells occupying a minority proportion of the detected CN.
+
+The results are very similar to the [(Cyto-Community analysis)](https://github.com/Elena983/CytoCommunity). 
+
+We clearly see the same formation of tertiary lymphoid structures (B cells and T cells) and the interplay between stroma and endothelial cells.
+
+![image](https://github.com/Elena983/steinbock/assets/68946912/9eada5e0-a60a-4f26-a03e-e48be5e19caf)
+
+##Tissue regions
+
+As expected, we can observe that interfaces between different CNs make up distinct SCs.
+
+Filter the SCs based on user-defined thresholds for the number of group entries (here at least 2 patients) and/or total number of cells (here a minimum of 100 cells) per SC
+ 
+For example, we can observe that SC 6 (B and T cells) has a degree (n = 2) and potentially more CN interactions with CN2 (directly to SC 1), * to 1 and 6
+
+![image](https://github.com/Elena983/steinbock/assets/68946912/9796d469-4222-4868-b992-3edeeb90cbc0)
+
+##Immune and stroma infiltration to tumor cluster
+
+Cellular neighborhood analysis - Supervised
+
+T cell (CD8+, CD4+) infiltration to tumor
+
+Patient 3 exhibits a higher frequency of tumor patches compared to Patient 1. Additionally, both samples display T-cell infiltration into the tumor region; however, in Patient 3, the frequency of T-cells is twice as high.
+
+![image](https://github.com/Elena983/steinbock/assets/68946912/b57f25ed-f9c5-47e2-9ea5-1fbaa7fe5f86)
+
+The distribution between cell types 
+
+![image](https://github.com/Elena983/steinbock/assets/68946912/6556a564-eb7b-4cc4-b1df-99e979c7db65)
+
 
 
 
