@@ -119,7 +119,7 @@ The distribution between cell types
 
 ![image](https://github.com/Elena983/steinbock/assets/68946912/6556a564-eb7b-4cc4-b1df-99e979c7db65)
 
-
+see the [stemness score calculating for comet data](https://github.com/Elena983/stemness_omics) on the same data
 
 
 
